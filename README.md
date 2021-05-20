@@ -17,3 +17,7 @@ Tensorflow Transformer (new trend for NLP)
 ### Deep Reinforcement Learning For Trading Applications
 
 * https://alphaarchitect.com/2020/02/26/reinforcement-learning-for-trading/ * 
+
+### Math Symbols Definitions
+
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
