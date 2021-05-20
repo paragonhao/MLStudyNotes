@@ -1,5 +1,7 @@
 # Machine Learning Study Notes
 
+### Machine learning allows the program/algo to find the rules rather than letting human to hard code the rules
+
 ### Dense Vector Vs Sparse Vector:
 Dense vector means that most of its values are non-zero. As a counter-example, a one-hot encoded vector is not "dense."
 
