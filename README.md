@@ -23,3 +23,8 @@ Tensorflow Transformer (new trend for NLP)
 ### Math Symbols Definitions
 
 https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
+
+
+### Tensorflow Programming Tutorial
+
+* https://www.youtube.com/watch?v=tPYj3fFJGjk
