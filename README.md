@@ -23,6 +23,9 @@ https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/#:~:t
 
 # Readings: 
 
+### Deep Learning book
+* https://www.deeplearningbook.org/
+
 ### Deep Reinforcement Learning For Trading Applications
 
 * https://alphaarchitect.com/2020/02/26/reinforcement-learning-for-trading/ * 
