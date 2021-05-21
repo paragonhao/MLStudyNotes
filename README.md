@@ -11,6 +11,9 @@ One-hot encoding is used in machine learning as a method to quantify categorical
 #### Reference:
 * https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/ *
 
+ML Cheat sheet 
+* https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+
 Tensorflow Transformer (new trend for NLP)
 * https://www.tensorflow.org/tutorials/text/transformer
 
