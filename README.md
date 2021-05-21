@@ -42,6 +42,7 @@ https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
 ### ML Cheat sheet 
 * https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+* https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#attention
 
 ### Tensorflow Transformer (new trend for NLP)
 * https://www.tensorflow.org/tutorials/text/transformer
