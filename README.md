@@ -9,6 +9,9 @@
 ### Understanding LSTM
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+### Text Classification
+* https://www.tensorflow.org/tutorials/text/text_classification_rnn
+
 ### Machine learning allows the program/algo to find the rules rather than letting human to hard code the rules
 
 ### Dense Vector Vs Sparse Vector:
