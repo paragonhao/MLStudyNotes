@@ -17,6 +17,10 @@ ML Cheat sheet
 Tensorflow Transformer (new trend for NLP)
 * https://www.tensorflow.org/tutorials/text/transformer
 
+Optimization Algorithms
+* https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
+
+
 # Readings: 
 
 ### Deep Reinforcement Learning For Trading Applications
