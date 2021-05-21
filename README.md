@@ -20,6 +20,8 @@ Tensorflow Transformer (new trend for NLP)
 Optimization Algorithms
 * https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 
+Keras Loss function
+* https://keras.io/api/losses/probabilistic_losses/#sparsecategoricalcrossentropy-class
 
 # Readings: 
 
