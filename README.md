@@ -6,6 +6,9 @@
 ### Object Dectection 
 * https://github.com/tensorflow/models/tree/master/research/object_detection
 
+### Understanding LSTM
+* https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ### Machine learning allows the program/algo to find the rules rather than letting human to hard code the rules
 
 ### Dense Vector Vs Sparse Vector:
@@ -50,4 +53,6 @@ https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
 * https://www.youtube.com/watch?v=tPYj3fFJGjk
 
+### Sentiment Analysis
+* https://www.tensorflow.org/tutorials/text/text_classification_rnn
 
