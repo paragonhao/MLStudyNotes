@@ -11,7 +11,7 @@ One-hot encoding is used in machine learning as a method to quantify categorical
 #### Reference:
 * https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/ *
 
-
+### Batch Vs Epoch
 https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/#:~:text=The%20number%20of%20epochs%20is%20a%20hyperparameter%20that%20defines%20the,of%20one%20or%20more%20batches.
 
 
