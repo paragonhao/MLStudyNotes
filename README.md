@@ -1,5 +1,8 @@
 # Machine Learning Study Notes
 
+### Beginner Tutorial ans code example
+* https://www.youtube.com/watch?v=tPYj3fFJGjk
+
 ### Machine learning allows the program/algo to find the rules rather than letting human to hard code the rules
 
 ### Dense Vector Vs Sparse Vector:
