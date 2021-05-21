@@ -11,17 +11,9 @@ One-hot encoding is used in machine learning as a method to quantify categorical
 #### Reference:
 * https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/ *
 
-ML Cheat sheet 
-* https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
 
-Tensorflow Transformer (new trend for NLP)
-* https://www.tensorflow.org/tutorials/text/transformer
+https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/#:~:text=The%20number%20of%20epochs%20is%20a%20hyperparameter%20that%20defines%20the,of%20one%20or%20more%20batches.
 
-Optimization Algorithms
-* https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
-
-Keras Loss function
-* https://keras.io/api/losses/probabilistic_losses/#sparsecategoricalcrossentropy-class
 
 # Readings: 
 
@@ -33,6 +25,17 @@ Keras Loss function
 
 https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
+### ML Cheat sheet 
+* https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+
+### Tensorflow Transformer (new trend for NLP)
+* https://www.tensorflow.org/tutorials/text/transformer
+
+### Optimization Algorithms
+* https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
+
+### Keras Loss function
+* https://keras.io/api/losses/probabilistic_losses/#sparsecategoricalcrossentropy-class
 
 ### Tensorflow Programming Tutorial
 
