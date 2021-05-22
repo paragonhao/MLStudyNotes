@@ -47,6 +47,9 @@ https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 ### Tensorflow Transformer (new trend for NLP)
 * https://www.tensorflow.org/tutorials/text/transformer
 
+### MIT Algorithm course
+* https://www.bilibili.com/video/BV1Tb411M7FA?from=search&seid=5157272128140968612
+
 ### Optimization Algorithms
 * https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 
